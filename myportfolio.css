@@ -121,10 +121,7 @@ body{
     font-weight: 60;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 #proje{
     font-size: 50px;
@@ -152,8 +149,6 @@ body{
 }
 .pic{
     margin-left: 75px;
-    margin-top: 20px;
-
 }
 h1{
     font-size: 30px;
