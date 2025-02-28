@@ -116,16 +116,12 @@ body{
     text-decoration: solid;
     text-transform: uppercase;
     letter-spacing: normal;
-    border-bottom: 5px;
-    color: #0C2447;
-    font-style: italic;
-    font-weight: 60;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
 }
 #proje{
     font-size: 50px;
