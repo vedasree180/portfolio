@@ -142,7 +142,7 @@ body{
 }
 .pr{
     display: inline;
-    margin-left: 75px;
+    margin-left: 50px;
     padding-left: 50px;
     padding-right: 50px;
     margin-top: 5px;
@@ -150,8 +150,8 @@ body{
 }
 .pic{
     margin-top: 25px;
-    margin-bottom: 20px;
     margin-left: 75px;
+    margin-right: 25px;
 }
 h1{
     font-size: 30px;
